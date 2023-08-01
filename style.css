@@ -1,0 +1,523 @@
+.top{
+    background-color: rgb(27, 161, 206);
+    border:30x solid black;
+    width:100%;
+    height: 50px;
+}
+.fa-bars{
+    margin-top:14px;
+    margin-left: 80px;
+    color:aliceblue;  
+}
+.bottom{
+    
+        background-color: rgb(250, 39, 57);
+        border:30x solid black;
+        width:100%;
+        position: relative;
+        height: 50px;
+        bottom:960px;
+        border-radius: 3px;
+        left:120px;
+
+}
+
+.fa-search{
+  position: relative;
+  bottom:210px;
+  left:710px;
+   
+    color:white;
+    
+
+}
+h3{
+    position: relative;
+    bottom: 245px;
+    left:1200px;
+    color:white;
+}
+.fa-calendar{
+    position: relative;
+    right:40px;
+    font-size: 13px;
+
+}
+.input-field::placeholder{
+    transform: translateY(-30%);
+}
+h5{
+    color:white;
+        position: relative;
+        bottom: 325px;
+        left:1180px;
+    
+        font-size: 30px;
+    
+}
+
+img{
+    width:30px;
+    position: relative;
+    left:130px;
+    bottom:42px;
+    border:1px solid orangered;
+    
+}
+h4{ color:white;
+    position: relative;
+    left:180px;
+    bottom:102px;
+}
+h6{ 
+    color:white;
+position: relative;
+    left:185px;
+    bottom:122px;
+}
+textarea{
+    width:400px;
+    height: 25px;
+    resize: none;
+    position: relative;
+    left:300px;
+    bottom:180px;
+    border: 1px solid black;
+
+}
+::placeholder{
+    position: relative;
+    top:05px;
+    left:2px;
+    
+}
+b{
+    font-size: 15px;
+    margin-left: 10px;
+}
+.two{
+    margin-left: 35px;
+    margin-bottom: 10px;
+    
+}
+.one{
+    padding: 10px 1px;
+    width:90px;
+    border:2px solid black;
+    position: relative;
+    bottom:360px;
+}
+.chumma{
+    position: relative;
+    bottom:970px;
+  left:125px;
+     font-size: 15px;
+    color:black;
+}  
+.date{
+    position: relative;
+    left:700px;
+    bottom:1020px;
+    color:black;
+    font-size: 20px;
+}
+.button{
+    position: relative;
+    left:1280px;
+    bottom:1043px;
+}
+button{
+    color:aliceblue;
+    background-color: rgb(19, 117, 245);
+}
+.box{
+    padding: 05px 130px;
+    width:90px;
+    border:3px solid rgb(243, 137, 137);
+    box-shadow: 0px 2px 1px 2px rgb(243, 137, 137);
+    position: relative;
+    bottom:1012px;
+    left:110px;
+    
+}
+.subox{
+    padding: 40px 20px;
+    width:90px;
+    
+    position: relative;
+    right:120px;
+   top:30px;
+   border:3px solid rgb(243, 137, 137);
+   box-shadow: 0px 2px 1px 2px rgb(243, 137, 137);
+
+}
+.lbox{
+    padding: 40px 20px;
+    width:90px;
+    border:3px solid rgb(243, 137, 137);
+    box-shadow: 0px 2px 1px 2px rgb(243, 137, 137);
+    position: relative;
+    right:120px;
+   top:70px;
+
+}
+.mbox{
+    padding: 40px 20px;
+    width:90px;
+    border:3px solid rgb(243, 137, 137);
+    box-shadow: 0px 2px 1px 2px rgb(243, 137, 137);
+    position: relative;
+    right:-70px;
+   bottom:135px;
+
+}
+.nbox{
+    padding: 40px 20px;
+    width:90px;
+    border:3px solid rgb(243, 137, 137);
+    box-shadow: 0px 2px 1px 2px rgb(243, 137, 137);
+    position: relative;
+    right:-70px;
+   bottom:97px;
+    
+       
+}
+.newbox{
+    
+        padding: 172px 130px;
+        width:90px;
+        border:3px solid rgb(243, 137, 137);
+    box-shadow: 0px 2px 1px 2px rgb(243, 137, 137);
+        position: relative;
+        bottom:1366px;
+        left:510px;  
+
+}
+.onee{
+    padding: 40px 20px;
+    width:90px;
+    border:3px solid rgb(243, 137, 137);
+    box-shadow: 0px 2px 1px 2px rgb(243, 137, 137);
+    position: relative;
+    left:615px;
+   bottom:1670px;
+
+}
+.twoo{
+    padding: 40px 20px;
+    width:90px;
+    border:3px solid rgb(243, 137, 137);
+    box-shadow: 0px 2px 1px 2px rgb(243, 137, 137);
+    position: relative;
+    left:615px;
+   bottom:1635px;
+
+}
+.other{
+    padding: 172px 220px;
+    width:90px;
+    border:3px solid rgb(243, 137, 137);
+    box-shadow: 0px 2px 1px 2px rgb(243, 137, 137);
+    position: relative;
+    bottom:1880px;
+    left:960px;  
+
+}
+.three{
+    padding: 40px 20px;
+    width:90px;
+    border:3px solid rgb(243, 137, 137);
+    box-shadow: 0px 2px 1px 2px rgb(243, 137, 137);
+    position: relative;
+    left:980px;
+   bottom:2190px;
+
+}
+.four{  
+     padding: 40px 20px;
+    width:90px;
+    border:3px solid rgb(243, 137, 137);
+    box-shadow: 0px 2px 1px 2px rgb(243, 137, 137);
+    position: relative;
+    left:980px;
+   bottom:2150px;
+}
+
+.five{
+    
+        padding: 40px 20px;
+        width:90px;
+        border:3px solid rgb(243, 137, 137);
+        box-shadow: 0px 2px 1px 2px rgb(243, 137, 137);
+        position: relative;
+        left:1150px;
+       bottom:2357px;
+    
+    }
+    .six{  
+        padding: 40px 20px;
+       width:90px;
+       border:3px solid rgb(243, 137, 137);
+       box-shadow: 0px 2px 1px 2px rgb(243, 137, 137);
+       position: relative;
+       left:1150px;
+      bottom:2317px;
+   }
+   .seven{
+    
+    padding: 40px 20px;
+    width:90px;
+    border:3px solid rgb(243, 137, 137);
+    box-shadow: 0px 2px 1px 2px rgb(243, 137, 137);
+    position: relative;
+    left:1330px;
+   bottom:2524px;
+
+}
+.eight{
+padding: 40px 20px;
+       width:90px;
+       border:3px solid rgb(243, 137, 137);
+       box-shadow: 0px 2px 1px 2px rgb(243, 137, 137);
+       position: relative;
+       left:1330px;
+      bottom:2485px;
+   }
+   
+.nine{
+    padding: 70px 330px;
+       width:90px;
+       border:3px solid rgb(243, 137, 137);
+       box-shadow: 0px 2px 1px 2px rgb(243, 137, 137);
+       position: relative;
+       left:110px;
+       bottom:2380px;
+
+}
+.ten{
+    padding: 70px 220px;
+       width:90px;
+       border:3px solid rgb(243, 137, 137);
+       box-shadow: 0px 2px 1px 2px rgb(243, 137, 137);
+       position: relative;
+       left:960px;
+       bottom:2525px;
+
+}
+strong{
+    position: relative;
+    bottom:2970px;
+    left:130px;
+}
+.b{
+    position: relative;
+    left:230px;
+    bottom: 55px;
+}
+.c{
+    position: relative;
+    left:30px;
+    bottom: -10px;
+
+}
+.d{
+    position: relative;
+    left:210px;
+    bottom: 45px
+}
+.heading{
+    position: relative;
+    left:210px;
+    bottom: 3270px;
+    font-size:40px;
+}
+.heading b{
+    font-size: 20px;
+}
+.m-a{
+    position: relative;
+    bottom:260px;
+    left:530px;
+}
+.m-b{
+    
+        position: relative;
+        bottom:200px;
+        left:520px;
+    
+}
+
+.l-a{
+    
+    position: relative;
+    bottom:380px;
+    left:880px;
+}
+.l-b{
+    
+    position: relative;
+    bottom:435px;
+    left:1045px;
+}
+.l-c{
+    
+    position: relative;
+    bottom:490px;
+    left:1225px;
+}
+.l-d{
+    position: relative;
+    bottom:420px;
+    left:890px;
+}
+.l-e{
+    
+    position: relative;
+    bottom: 475px;
+    left:1055px;
+}
+.l-f{
+    
+    position: relative;
+    bottom:535px;
+    left:1225px;
+}
+.d-a{
+       
+    position: relative;
+    bottom:400px;
+    left:05px;
+    font-size: 18px;
+}
+.d-b{
+       
+    position: relative;
+    bottom:420px;
+    left:850px;
+    font-size: 18px;
+}
+.d-a .tot{   
+    position: relative;
+    left:515px;
+    font-size: 18px;
+}
+.d-b .tota{
+       
+    position: relative;
+    left:210px;
+    font-size: 18px;
+}
+.down button{
+    color:blue;
+    position: relative;
+    padding:5px 30px;
+    bottom:380px;
+    left:320px;
+}
+.down b{
+    position: relative;
+    bottom:375px;
+    left:320px;
+}
+.down p{
+    position: relative;
+    bottom: 400px;
+    left:10px;
+}
+.down hr{
+    position: relative;
+    bottom: 439px;
+    right:400px;
+    width: 30px;
+    padding: 1px;
+    background-color:white;
+}
+.down-2{
+    position: relative;
+    padding:5px 30px;
+    bottom:500px;
+    left:760px;
+}
+.down-2 button{
+    position: relative;
+    left:145px;
+    top:24px;
+    padding:5px 30px;
+    color: blue;
+}
+.down-2 p{
+position: relative;
+top:3x;
+left:60px;
+}
+.down-2 b{
+    position: relative;
+    left:135px;
+    top:26px;   
+    font-size: 10px;
+}
+.down-2 hr{
+    position: relative;
+    bottom:53px;
+   right:545px;
+   width:30px;
+   padding: 1px;
+    background-color:white;
+}
+.down-3{
+    position: relative;
+    padding:5px 30px;
+    bottom:600px;
+    left:1060px;
+    
+}
+.down-3 button{
+    position: relative;
+    left:-27px;
+    top:4px;
+    padding:5px 30px;
+    background-color: rgb(121, 198, 231);
+}
+.down-3 hr{
+    position: relative;
+    bottom:13px;
+   right:720px;
+   width:30px;
+   padding: 1px;
+    background-color:white;
+}
+.down-3 b{
+    position: relative;
+    left:-33px;
+    top:6px;   
+    font-size: 11px;
+}
+.down-4{
+    position: relative;
+    padding:5px 30px;
+    bottom:600px;
+    left:1060px;
+}
+.down-4 button{
+    position: relative;
+    left:88px;
+    bottom:56px;
+    padding:5px 30px;
+    background-color: rgb(255, 115, 115);
+}
+.down-4 b{
+    position: relative;
+    left:85px;
+    bottom:55px;   
+    font-size: 11px;
+}
+.down-4 hr{
+    position: relative;
+    bottom:73px;
+   right:603px;
+   width:30px;
+   padding: 1px;
+    background-color:white;
+}
+
+
